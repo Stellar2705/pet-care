@@ -34,3 +34,10 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Temporary testing files
+/public/test-checkout.html
+
+# Local admin utility scripts
+/make-admin.js
+/reset-password.js
